@@ -1,0 +1,5 @@
+testing-students:
+  questions-base-path: "./src/main/resources/questionsBase.csv"
+  questions-number: 6
+  required-correct-answers: 2
+  locale: en_US
