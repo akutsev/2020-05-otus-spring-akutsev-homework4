@@ -1,0 +1,14 @@
+testing-students:
+  questions-base-path: "./src/test/resources/questionsBaseTest.csv"
+  questions-number: 5
+  required-correct-answers: 2
+  success-message: "You were successful!"
+  fail-message: "You failed :-("
+  no-more-questions-message: "No more question in base. Change questions number setting"
+  locale: en_US
+
+
+spring:
+  shell:
+    interactive:
+      enabled: false
